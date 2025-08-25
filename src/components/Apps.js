@@ -3,7 +3,7 @@ import React from 'react';
 const projects = [
   { 
     name: 'Status Saver Ultra', 
-    description: 'Download WhatsApp status videos and images with ease. Features include status preview, batch downloading, media organization, and support for all WhatsApp status formats. Over 1M+ downloads with 4.5+ star rating.',
+    description: 'Download WhatsApp status videos and images with ease. Features include status preview, batch downloading, media organization, chat recovery, and support for WhatsApp status formats.',
     technologies: ['Kotlin', 'Jetpack Compose', 'Android SDK', 'Material Design', 'Clean Architecture', 'MVVM'],
     url: 'https://play.google.com/store/apps/details?id=com.wastatus.downloadstatus.videodownloader.statussaver.ultra.status.saver.statusdownloader',
     logo: '/images/status-saver-logo.webp'

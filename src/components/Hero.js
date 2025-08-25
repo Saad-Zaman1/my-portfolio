@@ -3,7 +3,7 @@ import React from 'react';
 const socialLinks = [
   { label: 'GitHub', url: 'https://github.com/Saad-Zaman1', icon: '🐙' },
   { label: 'LinkedIn', url: 'https://www.linkedin.com/in/saad-zaman1/', icon: '💼' },
-  // { label: 'Telegram', url: '#', icon: '📱' },
+  { label: 'Mail', url: 'mailto:saad.zaman5439@gmail.com', icon: '📧' },
   // { label: 'Facebook', url: '#', icon: '📘' },
   // { label: 'Instagram', url: '#', icon: '📷' },
 ];

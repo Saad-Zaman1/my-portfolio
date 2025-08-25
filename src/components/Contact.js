@@ -23,7 +23,7 @@ function Contact() {
         <div className="contact-social">
           <a href="https://github.com/Saad-Zaman1" target="_blank" rel="noreferrer" className="social-icon">🐙</a>
           <a href="https://www.linkedin.com/in/saad-zaman1/" target="_blank" rel="noreferrer" className="social-icon">💼</a>
-          {/* <a href="mailto:saad.zaman1@gmail.com" className="social-icon">📧</a> */}
+          <a href="mailto:saad.zaman5439@gmail.com" className="social-icon">📧</a>
           {/* <a href="#" className="social-icon">📱</a>
           <a href="#" className="social-icon">📘</a>
           <a href="#" className="social-icon">📷</a> */}
